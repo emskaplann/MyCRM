@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCustomWorkflows", "MyCust
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExternalCRMClient", "ExternalCRMClient\ExternalCRMClient.csproj", "{DE9AA921-8B01-478E-8A8D-F3F74924C749}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Client Scripts", "Client Scripts", "{BB36542C-60B0-4ACC-AD6A-8CCFCB3FAAB9}"
+	ProjectSection(SolutionItems) = preProject
+		ContactScripts.js = ContactScripts.js
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
